@@ -1,0 +1,2 @@
+C:\Users\tomka\source\repos\SharpHungarian\obj\Debug\SharpHungarian.csprojAssemblyReference.cache
+C:\Users\tomka\source\repos\SharpHungarian\obj\Debug\SharpHungarian.csproj.CoreCompileInputs.cache
